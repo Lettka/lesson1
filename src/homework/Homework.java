@@ -39,8 +39,6 @@ public class Homework {
         //8
         System.out.print("Enter year: ");
         isLeapYear(scanner.nextInt());
-
-        scanner.close();
     }
 
     //3. Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,
